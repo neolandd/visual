@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    vertical-align: top;
+}
+
+nav img {
+
+    width: 149px;
+} 
+
+
+h2 {
+    font-family: Montserrat, sans-serif;
+    font-size: 48px;
+    line-height: 48px;
+    font-weight: 600;
+    color: #4a4a4a;
+}
+
+.cajaderecha, .cajaizquierda {
+    display: inline-block;
+    width: 48%;
+
+} 
+
+.cajaizquierda {
+    padding: 90px 0 90px 0;
+}
+
+nav ul {
+    display: inline-block;
+}
+
+nav ul li {
+
+    display: inline-block;
+}
+
+nav {
+    border-bottom: 1px solid #A9ABBC;
+}
